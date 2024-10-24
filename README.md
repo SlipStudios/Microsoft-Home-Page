@@ -1,2 +1,2 @@
-# Microsoft-Home-Page
-Redesign Of Microsoft Home Page
+➡️ This is a home page only redisign of the microsoft website ⬅️
+(Copyright - @Microsoft)
